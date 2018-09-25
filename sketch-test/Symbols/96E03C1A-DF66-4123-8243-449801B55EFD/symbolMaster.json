@@ -1,0 +1,94 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "25C7B580-7E0A-409A-9BC5-2D09710A6B47",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1816,
+  "do_objectID": "96E03C1A-DF66-4123-8243-449801B55EFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84AFCDD9-BE52-48FC-851F-8F0E73E0B24D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58D8C8A5-2235-417B-BF4B-FC00BED6F035",
+    "height": 24,
+    "width": 24,
+    "x": 182,
+    "y": -24
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B60FF14E-BEEC-4F74-AD7B-EE7BBB9F5C9F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "59A7FBF7-AC66-4D1C-AA46-A29AB0A06CA4"
+    }
+  ],
+  "name": "icons/lock copy",
+  "nameIsFixed": false,
+  "originalObjectID": "6B18BF1D-873C-4D1D-9284-187861A87BEB",
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 24,
+    "name": "icons",
+    "offersLandscapeVariant": 0,
+    "width": 24
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D88A6C61-880B-4A32-A4C8-DD8B89900931",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A32AFD52-AF9C-4809-887B-886031C24D5C",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F33A14A1-7CB9-4308-804B-0C241056576E",
+    "guides": [
+    ]
+  }
+}
